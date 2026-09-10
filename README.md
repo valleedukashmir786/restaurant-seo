@@ -40,8 +40,7 @@
       "postalCode": "62200",
       "addressLocality": "Boulogne-sur-Mer",
       "addressCountry": "FR"
-    },
-    "menu": "https://lavalleedukashmir-boulogne.eatbu.com/menu.html"
+    }
   }
   </script>
 </head>
