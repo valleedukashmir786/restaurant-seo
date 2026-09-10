@@ -10,12 +10,12 @@
         content="La Vallée du Kashmir, restaurant indien halal à Boulogne-sur-Mer depuis 2003. Cuisine indienne et spécialités du Kashmir, sur place et à emporter.">
 
   <meta name="robots" content="index, follow">
-  <link rel="canonical" href="https://VOTRE-DOMAINE.FR/">
+  <link rel="canonical" href="https://lavalleedukashmir-boulogne.eatbu.com/">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="Restaurant Indien à Boulogne-sur-Mer | La Vallée du Kashmir">
   <meta property="og:description" content="Découvrez La Vallée du Kashmir, restaurant indien à Boulogne-sur-Mer depuis 2003.">
-  <meta property="og:url" content="https://VOTRE-DOMAINE.FR/">
+  <meta property="og:url" content="https://lavalleedukashmir-boulogne.eatbu.com/">
   <meta property="og:locale" content="fr_FR">
 
   <link rel="stylesheet" href="css/style.css">
@@ -24,10 +24,10 @@
   {
     "@context": "https://schema.org",
     "@type": "Restaurant",
-    "@id": "https://VOTRE-DOMAINE.FR/#restaurant",
+    "@id": "https://lavalleedukashmir-boulogne.eatbu.com/#restaurant",
     "name": "La Vallée du Kashmir",
     "description": "Restaurant indien à Boulogne-sur-Mer proposant une cuisine indienne et des spécialités du Kashmir.",
-    "url": "https://VOTRE-DOMAINE.FR/",
+    "url": "https://lavalleedukashmir-boulogne.eatbu.com/",
     "telephone": "+33321874581",
     "priceRange": "€€",
     "servesCuisine": [
@@ -40,8 +40,7 @@
       "postalCode": "62200",
       "addressLocality": "Boulogne-sur-Mer",
       "addressCountry": "FR"
-    },
-    "menu": "https://VOTRE-DOMAINE.FR/menu.html"
+    }
   }
   </script>
 </head>
