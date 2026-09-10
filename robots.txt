@@ -1,7 +1,1 @@
-User-agent: *
-Allow: /
-Disallow: /admin/
-Disallow: /api/
-Disallow: /private/
-
-Sitemap: https://lavalleedukashmir-boulogne.eatbu.com/sitemap.xml
+# This file has been removed - not applicable for EATBU platform
